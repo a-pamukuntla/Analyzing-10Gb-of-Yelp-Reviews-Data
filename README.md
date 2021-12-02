@@ -15,4 +15,4 @@ I analyzed review and business datasets to compare the written reviews given by 
 Similar to part III, I calculated and plotted the skew of Elite User Reviews to find out it Elite Users are honest with their reviews.
 ## Cluster and Notebook Configs
 ![notebook](project02/assests/cluster_configuration.png)
-![cluster](project02/assets/notebook_configuration.png)
+![cluster](project02/assests/notebook_configuration.png)
