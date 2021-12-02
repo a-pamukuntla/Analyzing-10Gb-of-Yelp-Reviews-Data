@@ -14,3 +14,5 @@ I analyzed review and business datasets to compare the written reviews given by 
 ### Part IV: Should the Elite be Trusted?
 Similar to part III, I calculated and plotted the skew of Elite User Reviews to find out it Elite Users are honest with their reviews.
 ## Cluster and Notebook Configs
+![notebook](assets/cluster_configuration.png)
+![cluster](assets/notebook_configuration.png)
